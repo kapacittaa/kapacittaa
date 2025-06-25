@@ -8,8 +8,6 @@ It's been 5 years since I've been programming regularly, trying to fill the time
 
 * 🌍  I'm based in Prague
 * ✉️  You can contact me at [kapacittaa@gmail.com](mailto:kapacittaa@gmail.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on interesting projects, where I can use my programming knowledge
 
 ### Skills
 
